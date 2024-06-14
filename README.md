@@ -74,3 +74,11 @@
 
 あなたの研究は、さまざまな業界に適用可能な新しいAI問題解決に貢献する可能性があります。大幅に改善されたAGIは、人間と機械の相互作用を大きく変える可能性があります。受賞ソリューションは、AGI分野の透明性とコラボレーションを促進するためにオープンソース化されます。 
 
+
+## 開発メモ
+
+```bash
+sourcesage -f docs\.sourcesage_releasenotes.yml
+
+sourcesage --changelog-start-tag v0.0.0 --changelog-end-tag v0.0.1
+```
